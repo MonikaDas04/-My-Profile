@@ -1,0 +1,86 @@
+body{
+    margin: auto
+}
+ /* Heading */
+ #Monika{
+     text-align: center;
+     height:105px;
+     width: 100%;
+     background-color: wheat;
+     font-family: cursive; 
+     font-size: 70px; 
+     color: rgb(red, green, blue) (139,0,0)
+ }
+ /* Profile */
+ #Personal{
+     text-align: center;
+     color: black;
+     height: 25px;
+     width: 100%;
+     background-color: cadetblue;
+ }
+ .Image>img{
+     width: 200px;
+     height: 250px;
+     float: left;
+     margin-left: 5%;
+     border: 2px groove blue;
+     border-radius: 10%;
+ }
+ /* About Me */
+ #About{
+     height: 250px;
+     width: 70%;
+     float: right;
+     margin-right: 5%;
+     border: 2px groove blue;
+     text-align: center;
+     background-color: cyan;
+ }
+ .Me{
+     text-align: left;
+     margin-left: 2%;
+ }
+ /* My Skills */
+ #Skills{
+     width: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: cadetblue;
+ }
+ #web{
+     width: 100%;
+    display: inline-block;
+    text-align: center;
+ }
+ .Icons{
+     height: 90px;
+     width:80px ;
+ }
+ /* Map */
+ .Map{
+     height: 250px;
+     width: 100%;
+ }
+ /* Contact Me */
+ #Contact{
+         float: left;
+         margin-left: 45%;
+ }
+ .social{
+         height: 40px;
+         width: 40px;
+         border-radius: 50%;
+ } 
+ a{
+     text-decoration: none;
+ } 
+ /* Footer */  
+ footer{
+     height: 60px;
+     width: 100%;
+     background-color: lightslategray;
+     display: inline-block;
+     text-align: center;
+ }
+ 
